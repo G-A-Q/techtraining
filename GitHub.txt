@@ -1,0 +1,2 @@
+﻿GitHub:
+GitHub is a web-based platform built on top of Git that provides hosting for software development projects. It offers features such as version control, collaboration tools, issue tracking, and project management. Developers use GitHub to store and share code, contribute to open-source projects, track changes, and collaborate with other team members. It also serves as a social network for developers, allowing them to showcase their work and connect with peers in the programming community.

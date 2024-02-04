@@ -1,0 +1,2 @@
+﻿HTTP (Hypertext Transfer Protocol):
+HTTP is a protocol used for transmitting hypermedia documents, such as HTML pages and multimedia content, over the internet. It defines how clients (such as web browsers) request resources from servers and how servers respond to those requests. HTTP operates on a client-server model, where clients send requests to servers, and servers respond with the requested resources along with status codes indicating the success or failure of the request.
